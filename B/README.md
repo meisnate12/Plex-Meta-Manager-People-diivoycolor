@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Diivoycolor (diivoycolor) - B (345 Images)
+# Plex Meta Manager People - Diivoycolor (diivoycolor) - B (348 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/BD%20Wong.jpg)
@@ -280,7 +280,9 @@
 * [Brian Regan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brian%20Regan.jpg)
 * [Brian Rogers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brian%20Rogers.jpg)
 * [Brian Taylor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brian%20Taylor.jpg)
+* [Brian Trenchard-Smith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brian%20Trenchard-Smith.jpg)
 * [Brian Tyree Henry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brian%20Tyree%20Henry.jpg)
+* [Brian Yuzna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brian%20Yuzna.jpg)
 * [Brianna Hildebrand](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brianna%20Hildebrand.jpg)
 * [Brianne Howey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brianne%20Howey.jpg)
 * [Brianne Tju](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Brianne%20Tju.jpg)
@@ -324,6 +326,7 @@
 * [Bruce Timm](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Bruce%20Timm.jpg)
 * [Bruce Willis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Bruce%20Willis.jpg)
 * [Bruno Kirby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Bruno%20Kirby.jpg)
+* [Bruno Mattei](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Bruno%20Mattei.jpg)
 * [Bruno Oliver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Bruno%20Oliver.jpg)
 * [Bruno Ricci](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Bruno%20Ricci.jpg)
 * [Bryan Callen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diivoycolor/master/B/Images/Bryan%20Callen.jpg)
